@@ -1,0 +1,7 @@
+{
+  "name": "AprendiendoIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
